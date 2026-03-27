@@ -16,7 +16,7 @@ Il software permette all'utente di salvare una lista json contenente password, e
 # 2. Introduzione
 
  Praticamente l'idea del progetto mi è venuta dal fatto che oggigiorno facciamo, volenti o nolenti, un sacco di collegamenti ad account online per il cui non si può usare la stessa password per
-   due motivi: n1 perché sarebbe non sicuro, e n2 perché ogni sito ha un requisito diverso (carattere speciale, caratteri numeri, numero di caratteri, non contenga password "facili"...).
+   due motivi: n1 perché sarebbe non sicuro, e n2 perché ogni sito ha un requisito diverso (carattere speciale, numeri, numero di caratteri, non contenga password "facili"...).
    Allora sorge il problema di ricordarle tutte, email comprese (per chi ha più email), allora avevo pensato a questo software.
    I dati sono salvati in un file json in un oggetto con 3 variabili, il nome del servizio, l'email/username dell'account e la password; il programma funziona che quando si mette una password che serve
    da "chiave maestra" nel form il programma, succede che vengono criptati tutti i dati contenuti nel json.
