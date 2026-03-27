@@ -43,6 +43,8 @@ Il gestore password è un programma basato su C# dove i dati vengono salvati in 
 
 # 4. Data Flow Diagram (DFD)
 
+schema non pervenuto...
+
 Non ci sono entità esterne, il processo principale del sistema è quello che legge o modifica il file json.
 
 | ID Processo | Nome Processo | Descrizione |
@@ -113,7 +115,5 @@ I requisiti non funzionali definiscono attributi di qualità.
 
 ---
 
-## 6) non pervenuto
-
-   (marco marco...)
+## 6) 
 
