@@ -97,8 +97,8 @@ I requisiti non funzionali definiscono attributi di qualità.
 | Componente | Requisito Minimo |
 |------------|-----------------|
 | CPU | 1GhZ |
-| RAM | 1gb |
-| Storage | 10MB |
+| RAM | 1Gb |
+| Storage | 10Mb |
 
 ---
 
