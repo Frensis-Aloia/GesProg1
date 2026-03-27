@@ -21,7 +21,6 @@ Il software permette all'utente di salvare una lista json contenente password, e
    I dati sono salvati in un file json in un oggetto con 3 variabili, il nome del servizio, l'email/username dell'account e la password; il programma funziona che quando si mette una password che serve
    da "chiave maestra" nel form il programma, succede che vengono criptati tutti i dati contenuti nel json.
    Se voglio leggere i dati basta mettere nuovamente la CM, che diventa l'unica password da ricordare da questo momento in poi, e i dati verranno decriptati.
-
 --
 
 # 3. Panoramica del Sistema
