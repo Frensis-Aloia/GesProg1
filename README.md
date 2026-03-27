@@ -113,7 +113,7 @@ I requisiti non funzionali definiscono attributi di qualità.
 
 ---
 
-6) non pervenuto
+## 6) non pervenuto
 
    (marco marco...)
 
