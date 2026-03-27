@@ -68,7 +68,7 @@ I requisiti non funzionali definiscono attributi di qualità.
 ### Prestazioni
 - Tempo massimo di risposta: 3s 
 - Numero di utenti concorrenti supportati: 1
-- Throughput: n/d 
+- Throughput: 3Mbps
 
 ### Sicurezza
 - Metodo di autenticazione:  n/d
